@@ -3,11 +3,11 @@
 
 ## Problem
 
-To understand the economic health of Armenia 
-To analyze the effect of 2020 44-day war on Armenia
-To analyze  the effect of COVID-19 lockdown on Armenia
-To find the most significant aspects and economy and see the results of above mentioned events on those 
-To analyze these events comparing to Armenia’s neighboring countries and also Middle East
+- To understand the economic health of Armenia 
+- To analyze the effect of 2020 44-day war on Armenia
+- To analyze  the effect of COVID-19 lockdown on Armenia
+- To find the most significant aspects and economy and see the results of above mentioned events on those 
+- To analyze these events comparing to Armenia’s neighboring countries and also Middle East
 
 
 ## Contributors
